@@ -4,6 +4,7 @@ const mods = .{
     @import("problems/day_01.zig"),
     @import("problems/day_02.zig"),
     @import("problems/day_03.zig"),
+    @import("problems/day_04.zig"),
 };
 
 pub fn main() !void {
