@@ -2,6 +2,7 @@ const std = @import("std");
 
 const mods = .{
     @import("problems/day_01.zig"),
+    @import("problems/day_02.zig"),
 };
 
 pub fn main() !void {
